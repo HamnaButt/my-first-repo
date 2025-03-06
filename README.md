@@ -1,4 +1,3 @@
-# My First Repository
+This is a change from your local branch.
+This is a change from GitHub.
 
-this is my first GitHub repository.
-I am learning Git and GitHub!
