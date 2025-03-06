@@ -1,3 +1,2 @@
-This is a change from your local branch.
-This is a change from GitHub.
-
+This is a change from the main branch.
+This is a change from the conflict-branch.
